@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    width: 100%;
+    height: 368px;
+}
+
+nav {
+    width: 100%;
+    height: 85px;
+}
+
+ul {
+    padding: 25px 25px;
+    display: flex;
+}
+
+li {
+    padding: 0px 15px 0px;
+
+}
+
+a {
+    color: rgb(68, 67, 67);
+    font-size: 18px;
+}
+
+figure {
+    padding: 5px;
+}
+
+#metin1 {
+    margin-top: 55px;
+    font-size: 25px;
+    color: gray;
+    word-wrap: break-word;
+}
+
+footer {
+    background-color: rgb(204, 235, 29);
+    width: 100%;
+    height: 200px;
+}
